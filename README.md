@@ -2,8 +2,6 @@
 
 # Mentor and Student Assigning with Database
 
-FrontEnd  https://preethi-st.github.io/ZEN-Mentors-Frontend/
-
 --------------------------------------------------------------------------------------------------
 
 Base URL https://zen-assign-mentors.herokuapp.com
